@@ -1,0 +1,21 @@
+html {
+    background: 
+        url("./assets/mountain_bg-384.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+
+@media (min-width: 768px) {
+    html {
+        background:
+            url("./assets/mountain_bg-768.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+      }
+}
+
+@media (min-width: 1921px) {
+    html {
+        background: url("./assets/mountain_bg-768.jpg") no-repeat fixed center;
+    }
+}
