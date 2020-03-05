@@ -1,6 +1,8 @@
 # spa-layout
 Single page website layout example
 
+[Live Demo](https://mihgol.github.io/spa-layout/)
+
 Uses:
 
 Webpack with contentHash substitution for changes to be picked up.
